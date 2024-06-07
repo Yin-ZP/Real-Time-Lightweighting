@@ -1,2 +1,2 @@
-# Real-Time-Purning
-Realtime pruning for NN model in inference stage
+# Real-Time-Lightweighting
+Realtime lightweighting for NN model in inference stage
