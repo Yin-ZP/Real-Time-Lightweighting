@@ -9,6 +9,7 @@
 - `mobilenetv1_cut_val.py`：Mobilenetv1模型轻量化测试程序
 - `cifra_get_parameter.py`：模型定点数量化处理程序
 - `cifra_getcoe.py`：coe文件生成程序
+- `get_flops.py`：获得模型整体计算量程序
 - `madd_cpt.py`：模型推理降低计算量计算程序
 
 ## 使用说明
